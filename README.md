@@ -10,6 +10,7 @@ An scripted GUI that allows the user to store its passwords for Python 3.8.
 * tkinter
 
 Note: both of these modules are already included with Python
+
 ---
 
 ## Contributors
